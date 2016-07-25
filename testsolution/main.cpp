@@ -41,7 +41,7 @@ glm::vec3 calculateNormalOfThePlaneWith3Points(glm::vec3 P0, glm::vec3 P1, glm::
 • t == 0: Intersection at first end point.
 • t == 1: Intersection at second end point.
 • t > 1: Intersection beyond second end point.
-• t < 0: Intersection before first end point..
+• t < 0: Intersection before first end point....
 
 
 */
